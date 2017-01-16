@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/drawable-mdpi/banner_red.png",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/drawable-mdpi/banner_red.png"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/drawable-mdpi/banner_grey.png",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/drawable-mdpi/banner_grey.png"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_cloudreader.png",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/drawable-mdpi/ic_cloudreader.png"
+    }
+]

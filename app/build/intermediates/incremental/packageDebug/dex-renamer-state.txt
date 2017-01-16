@@ -1,0 +1,7 @@
+#Mon Jan 16 16:16:45 CST 2017
+base.0=/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa9a6e8a53516091a3eca2bc21cee344ff688e2a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_711ce9ad6b3e047c4b2dd553e1988ea9b60dc514/classes.dex
+base.1=/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_711ce9ad6b3e047c4b2dd553e1988ea9b60dc514
+file.0=/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa9a6e8a53516091a3eca2bc21cee344ff688e2a/classes.dex

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="121653760233729"
+    token="8581571170443491221"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4357" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1551" />
+    <task
+        name="verifier"
+        duration="165" />
+
+    <artifact
+        location="/Users/chenb/AndroidStudioProjects/CloudReader/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="121653760233729"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/chenb/AndroidStudioProjects/CloudReader/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

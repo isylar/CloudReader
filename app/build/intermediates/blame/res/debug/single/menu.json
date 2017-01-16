@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/menu/movie_detail.xml",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/menu/movie_detail.xml"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/menu/gank_bottomsheet.xml",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/menu/gank_bottomsheet.xml"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/menu/base_header_menu.xml",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/menu/base_header_menu.xml"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/chenb/AndroidStudioProjects/CloudReader/app/build/intermediates/res/merged/debug/menu/slide.xml",
+        "source": "/Users/chenb/AndroidStudioProjects/CloudReader/app/src/main/res/menu/slide.xml"
+    }
+]
